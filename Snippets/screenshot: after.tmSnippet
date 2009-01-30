@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>screenshot(Mode.AFTER);${0}</string>
+	<key>name</key>
+	<string>screenshot: after</string>
+	<key>scope</key>
+	<string>source.java</string>
+	<key>tabTrigger</key>
+	<string>ssa</string>
+	<key>uuid</key>
+	<string>6C24D476-9455-4003-B036-7951364BDAFC</string>
+</dict>
+</plist>

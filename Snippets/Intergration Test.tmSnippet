@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>/**
+ * ${4:Description}
+ * @throws Exception
+ */
+@Test${2:(dependsOnMethods = {"${3:className}"\})}
+public void ${1:testName}() throws Exception {
+	${5:selenium.open(${6:'${7}'});
+	screenshot(Mode.BEFORE);
+	
+	${8}
+	
+	screenshot(Mode.AFTER);}
+}${0}</string>
+	<key>name</key>
+	<string>Intergration Test</string>
+	<key>scope</key>
+	<string>source.java</string>
+	<key>tabTrigger</key>
+	<string>test</string>
+	<key>uuid</key>
+	<string>26C1290C-3CED-4F25-B1E1-6A2A74D12047</string>
+</dict>
+</plist>

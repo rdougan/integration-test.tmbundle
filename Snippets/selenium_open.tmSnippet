@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>selenium.open(${1:'${2}'});${0}</string>
+	<key>name</key>
+	<string>selenium.open</string>
+	<key>scope</key>
+	<string>source.java</string>
+	<key>tabTrigger</key>
+	<string>open</string>
+	<key>uuid</key>
+	<string>8A973050-B7C8-4C07-9E01-E5A34E5690F3</string>
+</dict>
+</plist>

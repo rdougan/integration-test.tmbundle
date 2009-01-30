@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>26C1290C-3CED-4F25-B1E1-6A2A74D12047</string>
+			<string>------------------------------------</string>
+			<string>AA9B5BB7-2D92-4800-84CC-63E6E57A83B1</string>
+			<string>2EF6CFA8-5881-4742-9DFB-E240AEB702FA</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>2EF6CFA8-5881-4742-9DFB-E240AEB702FA</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F9345E2D-DB25-44B4-93AB-6CFF7FB07E3D</string>
+					<string>F75410DC-5F6B-499D-BAC7-7D8E3FDFD954</string>
+					<string>6C24D476-9455-4003-B036-7951364BDAFC</string>
+				</array>
+				<key>name</key>
+				<string>Custom</string>
+			</dict>
+			<key>AA9B5BB7-2D92-4800-84CC-63E6E57A83B1</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>8A973050-B7C8-4C07-9E01-E5A34E5690F3</string>
+					<string>2A05D4DE-0C67-4C9A-8E0D-8904C5444C65</string>
+					<string>3FED6C6E-4C3F-47CE-9FD8-D602CCB68B14</string>
+					<string>1A1EB667-C8F6-4027-B9CD-9E851B704547</string>
+					<string>E7D6AEFC-9E66-4189-87E2-808A9895C7A1</string>
+				</array>
+				<key>name</key>
+				<string>Selenium</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Integration Test</string>
+	<key>ordering</key>
+	<array>
+		<string>26C1290C-3CED-4F25-B1E1-6A2A74D12047</string>
+		<string>8A973050-B7C8-4C07-9E01-E5A34E5690F3</string>
+		<string>2A05D4DE-0C67-4C9A-8E0D-8904C5444C65</string>
+		<string>3FED6C6E-4C3F-47CE-9FD8-D602CCB68B14</string>
+		<string>1A1EB667-C8F6-4027-B9CD-9E851B704547</string>
+		<string>F9345E2D-DB25-44B4-93AB-6CFF7FB07E3D</string>
+		<string>F75410DC-5F6B-499D-BAC7-7D8E3FDFD954</string>
+		<string>6C24D476-9455-4003-B036-7951364BDAFC</string>
+		<string>E7D6AEFC-9E66-4189-87E2-808A9895C7A1</string>
+	</array>
+	<key>uuid</key>
+	<string>308FA655-0D18-40B0-B686-892E38CC49DA</string>
+</dict>
+</plist>
